@@ -11,7 +11,7 @@
 | 담당 | 담당 | 담당 | 담당 |
 
 # 💻 Code Convention
-나중에 채우겠습니다.
+[NOTION Code Convetion Link](https://www.notion.so/Code-Convention-74426b8e2bbe49bdada0c83b8fe68116?pvs=4)
 
 # 🔖 Branch Strategy
 <img src="https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3/.github/assets/52882799/671a38b1-141d-4def-85ec-17aa3b65af07" width="256" />   
@@ -26,11 +26,21 @@
 
 
 # 📁 폴더링
-이거 노션에 잇었는데 흠...
+```
+📦java.sopt.soptkaton_team3
+├─📂data
+│  ├─📂model
+│  │  └─📂response
+│  │  └─📂request
+│  ├─📂repository
+│  ├─📂service
+├─📂presentation
+└─📂util
+```
 
 # 📸 안봉이들 사진첩
-꺄르륵
-
+Before   
+![before_pic](https://github.com/DO-SOPT-SOPKATHON-ANDROID-TEAM3/.github/assets/52882799/5ba2d617-7f01-4661-bd98-3101f9ade409)
 
 <!--
 
